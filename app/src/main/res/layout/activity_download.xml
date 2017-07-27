@@ -12,7 +12,7 @@
         android:id="@+id/textViewdate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="TextView"
+        android:text="TextView2"
         android:textColor="@android:color/black"
         app:layout_constraintTop_toTopOf="parent"
         android:layout_marginTop="8dp"
